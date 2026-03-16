@@ -172,23 +172,7 @@ npm run dev
 
 ---
 
-## 📊 Analysis output
 
-At the end of each interview, the system returns:
-
-| Field | Type | Description |
-|-------|------|-------------|
-| `summary` | string | 2-3 sentence overview of the candidate |
-| `themes` | array | 3-5 key themes across answers |
-| `sentiment` | string | Positive / Neutral / Mixed / Negative |
-| `sentimentScore` | integer | 0–100, based on tone and confidence |
-| `engagementScore` | integer | 0–100, based on depth and detail of answers |
-| `keyPoints` | array | 3-5 specific insights from the interview |
-| `keywords` | array | 6-8 words representing the responses |
-| `strengths` | array | 2-3 notable strengths demonstrated |
-| `improvements` | array | 1-2 areas to develop further |
-
----
 
 ## 💾 Saved interview format
 
